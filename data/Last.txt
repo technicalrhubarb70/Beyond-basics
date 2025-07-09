@@ -1,0 +1,4 @@
+Laptop--- 0 Piece----0.0 tk.
+ Mobile----1 Piece---120000.0 tk.
+ Monitor---0 Piece---0.0 tk.
+120000.0 tk Total.
